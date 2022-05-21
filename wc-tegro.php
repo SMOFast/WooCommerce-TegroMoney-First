@@ -6,7 +6,6 @@
     Version: 1.0.0
     Tags: WooCommerce, WordPress, Gateways, Payments, Payment, Money, WooCommerce, WordPress, Plugin, Module, Store, Modules, Plugins, Payment system, Website
     Author: tergo.money
-    Author URI: https://tegro.money
 
     Copyright: © 2020 Ros.Media. Modified
 	License: GNU General Public License v3.0
