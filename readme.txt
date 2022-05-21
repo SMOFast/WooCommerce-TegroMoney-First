@@ -1,6 +1,6 @@
-=== Your Plugin Name ===
+=== Tegro.Money Payment Gateway eCommerce ===
  
-Contributors: Tegro.Money Payment Gateway eCommerce
+Contributors: ktanster, DeFiTON
 Tags: tegro, tegro money, payment
 Requires at least: 5.0
 Tested up to: 5.9.3
